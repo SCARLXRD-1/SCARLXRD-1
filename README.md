@@ -3,11 +3,11 @@
 -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=007acc&height=200&section=header&text=AKASHI%20DEV&fontSize=60&fontAlignY=35&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=007acc&amp;height=200&amp;section=header&amp;text=AKASHI%20DEV&amp;fontSize=60&amp;fontAlignY=35&amp;animation=twinkling" />
   
   <br />
-  <a href="https://akashidev.com" target="_blank">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&size=24&duration=4000&pause=1000&color=3794FF&center=true&vCenter=true&width=500&lines=Software+Engineer;UI%2FUX+Designer;Data+Science+Enthusiast;Building+Modern+Web+Experiences" alt="Typing SVG" />
+  <a href="https://akashidev.qzz.io/es" target="_blank">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&amp;size=24&amp;duration=4000&amp;pause=1000&amp;color=3794FF&amp;center=true&amp;vCenter=true&amp;width=500&amp;lines=Software+Engineer;UI%2FUX+Designer;Data+Science+Enthusiast;Building+Modern+Web+Experiences" alt="Typing SVG" />
   </a>
 </div>
 
@@ -18,7 +18,7 @@
 
 - 💻 **Stack principal:** React, Next.js, TypeScript, TailwindCSS
 - 📊 **Data Science:** Python, Pandas, Jupyter Notebooks
-- 🌐 **Mi portafolio:** [akashidev.com](https://akashidev.com)
+- 🌐 **Mi portafolio:** [akashidev.qzz.io](https://akashidev.qzz.io/es)
 - 🎯 **Aprendiendo actualmente:** Arquitecturas escalables y Animaciones web avanzadas
 - ⚡ **Dato curioso:** ¡Construí mi portafolio simulando un sistema operativo completo!
 
@@ -37,8 +37,8 @@
 ### 📈 Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SCARLXRD-1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SCARLXRD-1&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SCARLXRD-1&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SCARLXRD-1&amp;theme=tokyonight&amp;hide_border=true&amp;background=0D1117" alt="GitHub Streak" width="48%" />
 </div>
 
 <br />
@@ -46,7 +46,7 @@
 ### 🏆 Top Lenguajes
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SCARLXRD-1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SCARLXRD-1&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117" alt="Top Languages" width="50%" />
 </div>
 
 <br />
@@ -54,18 +54,18 @@
 ### 📬 Conecta conmigo
 
 <div align="center">
-  <a href="https://linkedin.com/in/jhonatan-jimenez-ak">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/jhonatan-jimenez-ak" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:tu-correo@ejemplo.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="mailto:jobathanjimenez1265@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" />
   </a>
-  <a href="https://akashidev.com">
-    <img src="https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  <a href="https://akashidev.qzz.io/es" target="_blank">
+    <img src="https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Portfolio" />
   </a>
 </div>
 
 <br />
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=007acc&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=007acc&amp;height=100&amp;section=footer" />
 </div>
