@@ -12,12 +12,18 @@
 </div>
 
 ---
-### 🚀 Sobre mí / About Me
+
+<details open>
+<summary><h2>🇪🇸 Español</h2></summary>
+
+### 🚀 Sobre mí
 ¡Hola! Soy **Jhonatan Jimenez (AKASHI DEV)**. Me apasiona construir interfaces interactivas, arquitecturas escalables y resolver problemas complejos mediante código. Mi experiencia abarca desde el desarrollo Frontend y Mobile hasta la integración de bases de datos en la nube y soluciones con Inteligencia Artificial.
+
 Actualmente estoy profundizando en **Machine Learning**, experimentando con modelos de IA locales y en la nube, y expandiendo mis conocimientos en **arquitectura de bases de datos** y **ciencia de datos**. Siempre en búsqueda de aprender algo nuevo.
 
 - 🌐 **Mi portafolio:** [akashidev.qzz.io/es](https://akashidev.qzz.io/es)
 - 💼 **LinkedIn:** [jhonatan-jimenez-ak](https://www.linkedin.com/in/jhonatan-jimenez-ak)
+- 🤖 **Intereses:** Machine Learning, IA Generativa, Bases de Datos, Desarrollo Multiplataforma
 - ⚡ **Dato curioso:** ¡Construí mi portafolio simulando un sistema operativo completo!
 
 <br />
@@ -36,11 +42,44 @@ Actualmente estoy profundizando en **Machine Learning**, experimentando con mode
 📅 *2021 - 2022*
 > Brindé atención directa a clientes en un entorno de alta demanda. Esta experiencia fortaleció mis habilidades de comunicación, trabajo bajo presión y resolución de problemas.
 
+</details>
+
+<details>
+<summary><h2>🇬🇧 English</h2></summary>
+
+### 🚀 About Me
+Hi! I'm **Jhonatan Jimenez (AKASHI DEV)**. I'm passionate about building interactive interfaces, scalable architectures, and solving complex problems through code. My experience spans from modern Frontend and Mobile development to cloud database integration and Artificial Intelligence solutions.
+
+I'm currently diving deeper into **Machine Learning**, experimenting with local and cloud-based AI models, and expanding my knowledge in **database architecture** and **data science**. Always looking to learn something new.
+
+- 🌐 **My portfolio:** [akashidev.qzz.io/es](https://akashidev.qzz.io/es)
+- 💼 **LinkedIn:** [jhonatan-jimenez-ak](https://www.linkedin.com/in/jhonatan-jimenez-ak)
+- 🤖 **Interests:** Machine Learning, Generative AI, Databases, Cross-platform Development
+- ⚡ **Fun fact:** I built my portfolio simulating a complete operating system!
+
 <br />
 
-### 🛠️ Habilidades Técnicas
+### 💼 Professional Experience
 
-#### 💻 Desarrollo Frontend & Backend
+**Junior Software Developer** | *Dynova Studio – Pest Control Manager*
+📅 *November 2025 - Present*
+> Development and maintenance of a cross-platform application for pest control business management. Participated in system architecture design, implementation of client/worker/service management features, cloud database integration, user authentication, geolocation, PDF report generation, and application deployment.
+
+**Junior Web Developer** | *MIP-D Integrated Pest Management*
+📅 *February 2025 - April 2025*
+> Development and maintenance of the company's corporate website, focused on service presentation, client acquisition, and digital identity strengthening. Implemented performance improvements, responsive design, and UX optimization.
+
+**Customer Service** | *Taquería La Paz*
+📅 *2021 - 2022*
+> Provided direct customer service in a high-demand environment. This experience strengthened my communication skills, ability to work under pressure, and problem-solving.
+
+</details>
+
+---
+
+### 🛠️ Tech Stack
+
+#### 💻 Frontend & Backend
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,php,supabase,postgres,mysql" />
@@ -54,14 +93,14 @@ Actualmente estoy profundizando en **Machine Learning**, experimentando con mode
   </a>
 </p>
 
-#### 🤖 Herramientas y Control de Versiones
+#### 🤖 Tools & Version Control
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
   </a>
 </p>
 
-#### 🧠 Inteligencia Artificial y APIs
+#### 🧠 AI & APIs
 <p>
   <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white" />
@@ -81,7 +120,7 @@ Actualmente estoy profundizando en **Machine Learning**, experimentando con mode
 
 <br />
 
-### 📈 Estadísticas de GitHub
+### 📈 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats-two-mu-78.vercel.app/api?username=SCARLXRD-1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
@@ -90,15 +129,13 @@ Actualmente estoy profundizando en **Machine Learning**, experimentando con mode
 
 <br />
 
-### 🏆 Top Lenguajes
-
 <div align="center">
   <img src="https://github-readme-stats-two-mu-78.vercel.app/api/top-langs/?username=SCARLXRD-1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="50%" />
 </div>
 
 <br />
 
-### 📬 Conecta conmigo
+### 📬 Connect with me
 
 <div align="center">
   <a href="https://www.linkedin.com/in/jhonatan-jimenez-ak" target="_blank">
@@ -108,7 +145,7 @@ Actualmente estoy profundizando en **Machine Learning**, experimentando con mode
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://akashidev.qzz.io/es" target="_blank">
-    <img src="https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </div>
 
