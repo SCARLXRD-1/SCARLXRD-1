@@ -3,20 +3,20 @@
 -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=007acc&amp;height=200&amp;section=header&amp;text=AKASHI%20DEV&amp;fontSize=60&amp;fontAlignY=35&amp;animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=007acc&height=200&section=header&text=AKASHI%20DEV&fontSize=60&fontAlignY=35&animation=twinkling" />
   
   <br />
   <a href="https://akashidev.qzz.io/es" target="_blank">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&amp;size=24&amp;duration=4000&amp;pause=1000&amp;color=3794FF&amp;center=true&amp;vCenter=true&amp;width=500&amp;lines=Software+Engineer;UI%2FUX+Designer;Mobile+Developer;Building+Modern+Web+Experiences" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&size=24&duration=4000&pause=1000&color=3794FF&center=true&vCenter=true&width=500&lines=Software+Engineer;UI%2FUX+Designer;Mobile+Developer;Building+Modern+Web+Experiences" alt="Typing SVG" />
   </a>
 </div>
 
 ---
-
 ### 🚀 Sobre mí / About Me
-¡Hola! Soy **Jhonatan Jimenez (AKASHI DEV)**. Me apasiona construir interfaces interactivas, arquitecturas escalables y resolver problemas complejos mediante código. Mi experiencia abarca desde el Frontend moderno hasta aplicaciones móviles e integración de Inteligencia Artificial.
+¡Hola! Soy **Jhonatan Jimenez (AKASHI DEV)**. Me apasiona construir interfaces interactivas, arquitecturas escalables y resolver problemas complejos mediante código. Mi experiencia abarca desde el desarrollo Frontend y Mobile hasta la integración de bases de datos en la nube y soluciones con Inteligencia Artificial.
+Actualmente estoy profundizando en **Machine Learning**, experimentando con modelos de IA locales y en la nube, y expandiendo mis conocimientos en **arquitectura de bases de datos** y **ciencia de datos**. Siempre en búsqueda de aprender algo nuevo.
 
-- 🌐 **Mi portafolio:** [akashidev.qzz.io](https://akashidev.qzz.io/es)
+- 🌐 **Mi portafolio:** [akashidev.qzz.io/es](https://akashidev.qzz.io/es)
 - 💼 **LinkedIn:** [jhonatan-jimenez-ak](https://www.linkedin.com/in/jhonatan-jimenez-ak)
 - ⚡ **Dato curioso:** ¡Construí mi portafolio simulando un sistema operativo completo!
 
@@ -24,17 +24,17 @@
 
 ### 💼 Experiencia Profesional
 
-**Desarrollador de Software Junior** | *Dynova Studio – Pest Control Manager* 
+**Desarrollador de Software Junior** | *Dynova Studio – Pest Control Manager*
 📅 *Noviembre 2025 - Presente*
-> Desarrollo y mantenimiento de una plataforma multiplataforma orientada a la gestión de empresas de control de plagas. Participé en el diseño de la arquitectura del sistema, implementación de funcionalidades para la administración de clientes, trabajadores y servicios, integración de bases de datos en la nube, autenticación de usuarios, geolocalización, generación de reportes PDF y despliegue de la aplicación. Colaboré en la optimización de procesos operativos mediante soluciones digitales enfocadas en la eficiencia y trazabilidad de los servicios.
+> Desarrollo y mantenimiento de una plataforma multiplataforma orientada a la gestión de empresas de control de plagas. Participé en el diseño de la arquitectura del sistema, implementación de funcionalidades para la administración de clientes, trabajadores y servicios, integración de bases de datos en la nube, autenticación de usuarios, geolocalización, generación de reportes PDF y despliegue de la aplicación.
 
 **Desarrollador Web Junior** | *MIP-D Manejo Integrado de Plagas*
 📅 *Febrero 2025 - Abril 2025*
-> Desarrollo y mantenimiento de la plataforma web corporativa de la empresa, enfocada en la presentación de servicios, captación de clientes y fortalecimiento de la identidad digital. Implementé mejoras de rendimiento, diseño responsivo y optimización de la experiencia de usuario para diferentes dispositivos.
+> Desarrollo y mantenimiento de la plataforma web corporativa de la empresa, enfocada en la presentación de servicios, captación de clientes y fortalecimiento de la identidad digital. Implementé mejoras de rendimiento, diseño responsivo y optimización de la experiencia de usuario.
 
 **Atención al Cliente** | *Taquería La Paz*
 📅 *2021 - 2022*
-> Brindé atención directa a clientes en un entorno de alta demanda, asegurando un servicio rápido y cordial. Colaboré con el equipo para coordinar pedidos y resolver solicitudes. Esta experiencia fortaleció mis habilidades de comunicación, trabajo bajo presión y resolución de problemas.
+> Brindé atención directa a clientes en un entorno de alta demanda. Esta experiencia fortaleció mis habilidades de comunicación, trabajo bajo presión y resolución de problemas.
 
 <br />
 
@@ -54,14 +54,29 @@
   </a>
 </p>
 
-#### 🤖 Herramientas & AI
+#### 🤖 Herramientas y Control de Versiones
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,copilot" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
   </a>
 </p>
+
+#### 🧠 Inteligencia Artificial y APIs
 <p>
-  <i><b>IA & APIs:</b> Google Maps API, Mapbox, Firebase FCM, NVIDIA NIM, Claude, ChatGPT, Perplexity AI, Gemini, Ollama, NotebookLM.</i>
+  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlebard&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Perplexity_AI-222222?style=for-the-badge&logo=perplexity&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
+  <img src="https://img.shields.io/badge/NotebookLM-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/LM_Studio-5A3EAD?style=for-the-badge" />
+  <br/>
+  <img src="https://img.shields.io/badge/Google_Maps_API-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mapbox-000000?style=for-the-badge&logo=mapbox&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase_FCM-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/NVIDIA_NIM-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
 </p>
 
 <br />
@@ -69,8 +84,8 @@
 ### 📈 Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SCARLXRD-1&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SCARLXRD-1&amp;theme=tokyonight&amp;hide_border=true&amp;background=0D1117" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats-two-mu-78.vercel.app/api?username=SCARLXRD-1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SCARLXRD-1&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
 </div>
 
 <br />
@@ -78,4 +93,26 @@
 ### 🏆 Top Lenguajes
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SCARLXRD-1&
+  <img src="https://github-readme-stats-two-mu-78.vercel.app/api/top-langs/?username=SCARLXRD-1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="50%" />
+</div>
+
+<br />
+
+### 📬 Conecta conmigo
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/jhonatan-jimenez-ak" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:jobathanjimenez1265@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://akashidev.qzz.io/es" target="_blank">
+    <img src="https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+</div>
+
+<br />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=007acc&height=100&section=footer" />
+</div>
